@@ -1,0 +1,6 @@
+{
+  "name": "Personal Routine Tracker",
+  "description": "A clean, minimalist routine and habit tracker with AMOLED dark mode, streaks, progress analytics, and local-first persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
